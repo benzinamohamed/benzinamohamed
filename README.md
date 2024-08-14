@@ -22,8 +22,8 @@ programming languages and frameworks.</div>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://openjfx.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" alt="JavaFX" height="50" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a hred="https://kivy.org/"  target="_blank"><img style="margin: 10px" src="https://cdn.publish0x.com/prod/fs/images/148f0822de100d64cf8474d6d81e98ddf3738e9af0dd0d852fc7d73dd6a9d230.png" alt="kivy" height="50" /></a>
-<a hred="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwq_G1BhCSARIsACc7NxqZNcwsJm7rTfiYlrdA-E9StAY2gowwzcV3inSlx9egn9LQNpzSm7UaAhEKEALw_wcB&gclsrc=aw.ds"  target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/e87a0bbc2ea533869deabc5775446f8a634e13dc84511323038eab5203ff40e5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667" alt="adroidstudio" height="50" /></a>
+<a href="https://kivy.org/"  target="_blank"><img style="margin: 10px" src="https://cdn.publish0x.com/prod/fs/images/148f0822de100d64cf8474d6d81e98ddf3738e9af0dd0d852fc7d73dd6a9d230.png" alt="kivy" height="50" /></a>
+<a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwq_G1BhCSARIsACc7NxqZNcwsJm7rTfiYlrdA-E9StAY2gowwzcV3inSlx9egn9LQNpzSm7UaAhEKEALw_wcB&gclsrc=aw.ds"  target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/e87a0bbc2ea533869deabc5775446f8a634e13dc84511323038eab5203ff40e5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667" alt="adroidstudio" height="50" /></a>
 
 </div>
 
