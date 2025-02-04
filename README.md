@@ -38,13 +38,23 @@
 
 
 ## Github Stats  
-<div align="center "  >
+<div align="center " margin = "20" >
 <img src="https://github-readme-stats.vercel.app/api?username=benzinamohamed&show_icons=true&count_private=true&theme=tokyonight" align="left"  height ="200"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzinamohamed&layout=compact&theme=tokyonight" align="right" height ="200"/>  
 </div>
 
 <br/>  
-
 <br />
+<div align="center">
+
+<div align="center" margin = "20">
+  <img src="https://github-profile-trophy.vercel.app/?username=benzinamohamed&theme=radical&row=1" alt="Trophy Showcase" />
+</div >
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benzinamohamed&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+</div>
 
 ----
