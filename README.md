@@ -4,21 +4,49 @@
 # <div align="center"> Hey there ,It's Hamoda! </div>  
 <br/>  
 
-## My Skill Set  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="44" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="44" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="44" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="44" /></a>  
- <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="44" /></a>  
-<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactNAtive" height="44" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="44" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="44" /></a>  
- <a  target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="direbase" height="44" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="44" /></a>  
-<a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwq_G1BhCSARIsACc7NxqZNcwsJm7rTfiYlrdA-E9StAY2gowwzcV3inSlx9egn9LQNpzSm7UaAhEKEALw_wcB&gclsrc=aw.ds"  target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" alt="adroidstudio" height="44" /></a>
 
+<div style="text-align: center; padding: 20px; max-width: 1200px; margin: 0 auto;" >
+    <div style="margin-bottom: 40px;">
+        <h3 style="color: #333; margin-bottom: 20px; font-size: 24px;">Programming Languages</h3>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
+            <img style="margin: 25px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" />
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" />
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" />
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" />
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" />
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" />
+        </div>
+    </div>
+    <div style="margin-bottom: 40px;">
+        <h3 style="color: #333; margin-bottom: 20px; font-size: 24px;">Web & Mobile Development</h3>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" />
+            <img style="margin: 15px; height: 65px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" />
+            <img style="margin: 15px; height: 65px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+            <img style="margin: 15px; height: 65px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" />
+            <img style="margin: 15px; height: 65px;" src="https://static.cdnlogo.com/logos/e/72/expo-go-app.svg" alt="Expo" />
+        </div>
+    </div>
+    <div style="margin-bottom: 40px;">
+        <h3 style="color: #333; margin-bottom: 20px; font-size: 24px;">Development Tools & Databases</h3>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
+            <img style="margin: 15px; height: 65px;" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" alt="Android Studio" />
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" />
+            <img style="margin: 15px; height: 65px;" src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" />
+            <img style="margin: 15px; height: 65px;" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" />
+            <img style="margin: 15px; height: 70px;" src="https://en.vetores.org/d/mongodb.svg" alt="MongoDB" />
+        </div>
+    </div>
+    <div style="margin-bottom: 40px;">
+        <h3 style="color: #333; margin-bottom: 20px; font-size: 24px;">Other Tools</h3>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
+            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" />
+        </div>
+    </div>
 </div>
+
+ 
 
 <br/>  
 
