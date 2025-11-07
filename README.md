@@ -55,8 +55,6 @@
 <div align="center">
 <a href="https://linkedin.com/in/benzina-mohamed-844051297" target="_blank">
 <img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="linkedin" height="62" /></a>
-  <a href="https://t.me/Hamodxd" target="_blank">
-<img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/telegram-icon-512x511-u53v26tn.png" alt="telegram" height="62" /></a>  
 </div>  
   
 
