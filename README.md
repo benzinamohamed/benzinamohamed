@@ -1,84 +1,35 @@
- 
-  
+<h2 align="center">Hi, I'm Hamoda</h2>
 
-# <div align="center"> Hey there ,It's Hamoda! </div>  
-<br/>  
+<p align="center">
+  Full-stack developer and systems security student.<br/>
+  I build things for the web and mobile. Always learning, always shipping.
+</p>
 
+<br/>
 
-<div style="text-align: center; padding: 20px; max-width: 1200px; margin: 0 auto;" >
-    <div style="margin-bottom: 40px;">
-        <h3 style="color: #333; margin-bottom: 20px; font-size: 24px;">Programming Languages</h3>
-        <div style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
-            <img style="margin: 25px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" />
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" />
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" />
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" />
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" />
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" />
-        </div>
-    </div>
-    <div style="margin-bottom: 40px;">
-        <h3 style="color: #333; margin-bottom: 20px; font-size: 24px;">Web & Mobile Development</h3>
-        <div style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" />
-            <img style="margin: 15px; height: 65px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" />
-            <img style="margin: 15px; height: 65px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" />
-            <img style="margin: 15px; height: 65px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" />
-            <img style="margin: 15px; height: 65px;" src="https://static.cdnlogo.com/logos/e/72/expo-go-app.svg" alt="Expo" />
-        </div>
-    </div>
-    <div style="margin-bottom: 40px;">
-        <h3 style="color: #333; margin-bottom: 20px; font-size: 24px;">Development Tools & Databases</h3>
-        <div style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
-            <img style="margin: 15px; height: 65px;" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" alt="Android Studio" />
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" />
-            <img style="margin: 15px; height: 65px;" src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" />
-            <img style="margin: 15px; height: 65px;" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" />
-            <img style="margin: 15px; height: 70px;" src="https://en.vetores.org/d/mongodb.svg" alt="MongoDB" />
-        </div>
-    </div>
-    <div style="margin-bottom: 40px;">
-        <h3 style="color: #333; margin-bottom: 20px; font-size: 24px;">Other Tools</h3>
-        <div style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
-            <img style="margin: 15px; height: 65px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" />
-        </div>
-    </div>
-</div>
+### About me
 
- 
+- Full-stack developer who loves turning ideas into real products
+- Studying Systems Security at ENSTA
+- Based in Algeria
+- Day-to-day stack: TypeScript, React, Next.js, NestJS and React Native
+- Ask me about web, mobile or security
 
-<br/>  
+### Toolbox
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,kotlin,c,js,ts,react,nextjs,nodejs,nestjs,redux,androidstudio,postgres,mongodb,sqlite,firebase,bash,linux&perline=9" alt="Java, Python, Kotlin, C, JavaScript, TypeScript, React, Next.js, Node.js, NestJS, Redux, Android Studio, PostgreSQL, MongoDB, SQLite, Firebase, Bash, Linux" />
+</p>
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/benzina-mohamed-844051297" target="_blank">
-<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="linkedin" height="62" /></a>
-</div>  
-  
+### GitHub
 
-<br/>  
+<p align="left">
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=benzinamohamed&show_icons=true&custom_title=My%20GitHub%20at%20a%20glance&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=benzinamohamed&layout=compact&langs_count=8&custom_title=Languages%20I%20use%20most&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
 
+### Let's connect
 
-## Github Stats  
-<div align="center " margin = "20" >
-<img src="https://github-readme-stats.vercel.app/api?username=benzinamohamed&show_icons=true&count_private=true&theme=tokyonight" align="left"  height ="200"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzinamohamed&layout=compact&theme=tokyonight" align="right" height ="200"/>  
-</div>
+[Portfolio](https://mohamedbenzina.dev) &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/benzina-mohamed-844051297)
 
-<br/>  
-<br />
-<div align="center">
-
-<div align="center" margin = "20">
-  <img src="https://github-profile-trophy.vercel.app/?username=benzinamohamed&theme=radical&row=1" alt="Trophy Showcase" />
-</div >
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benzinamohamed&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-</div>
-
-----
+Thanks for stopping by! Let's build something great together.
