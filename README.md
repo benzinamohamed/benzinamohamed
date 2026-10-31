@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Hamoda</h2>
 
 <p align="center">
-  Full-stack developer and systems security student.<br/>
+  Full-stack developer.<br/>
   I build things for the web and mobile. Always learning, always shipping.
 </p>
 
